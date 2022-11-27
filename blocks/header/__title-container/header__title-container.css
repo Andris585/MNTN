@@ -1,0 +1,7 @@
+.header__title-container {
+  width: 950px;
+  height: 310px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}

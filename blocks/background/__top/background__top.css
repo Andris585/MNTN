@@ -1,0 +1,9 @@
+.background__top {
+  background-image: url(../../../images/HG.jpg);
+  width: 1920px;
+  height: 1200px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -2;
+}

@@ -1,0 +1,8 @@
+.slider__indicator {
+   background-color: #fff;
+   height: 60px;
+   width: 3px; 
+   position: absolute;
+   top: 0;
+   left: 0;
+}

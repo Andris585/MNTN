@@ -1,0 +1,7 @@
+.card {
+  height: 720px;
+  position: relative;
+  padding-bottom: 200px;
+  display: flex;
+  justify-content: space-between;
+}

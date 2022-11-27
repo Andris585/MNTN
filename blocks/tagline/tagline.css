@@ -1,0 +1,21 @@
+.tagline {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+  color: #fbd784;
+  margin: 0;
+}
+
+.tagline::before {
+  display: inline-block;
+  content: '';
+  background-color: #fbd784;
+  width: 72px;
+  height: 2px;
+  margin-right: 24px;
+  vertical-align: middle;
+}

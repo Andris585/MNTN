@@ -1,0 +1,12 @@
+.card__number {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 240px;
+  line-height: 240px;
+  color: rgba(255, 255, 255, .1);
+  margin: 0;
+  position: absolute;
+  top: -105px;
+  left: -150px;
+}

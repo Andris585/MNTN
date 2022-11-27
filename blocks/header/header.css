@@ -1,0 +1,8 @@
+.header {
+  width: inherit;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+}
