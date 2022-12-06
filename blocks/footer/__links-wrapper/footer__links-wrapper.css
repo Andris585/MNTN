@@ -1,0 +1,5 @@
+.footer__links-wrapper {
+  display: flex;
+  justify-content: space-between;
+  width: 566px;
+}

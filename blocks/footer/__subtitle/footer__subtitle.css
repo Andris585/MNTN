@@ -1,0 +1,12 @@
+.footer__subtitle {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 32px;
+  color: #FFFFFF;
+  width: 303px;
+  height: 64px;
+  margin: 0;
+  padding: 24px 0 122px;
+}

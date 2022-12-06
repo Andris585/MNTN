@@ -1,9 +1,9 @@
 .follow-us {
-    width: 24px;
-    height: 173px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-between;
-    z-index: 1;
+  width: 24px;
+  height: 173px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 1;
 }
