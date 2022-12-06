@@ -42,6 +42,7 @@
 @import url(../blocks/card/_direction/card_direction_reverse.css);
 @import url(../blocks/card/__text-container/_direction/card__text-container_direction_reverse.css);
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../blocks/footer/__links-wrapper/footer__links-wrapper.css);
 @import url(../blocks/footer/__column-link/footer__column-link.css);
